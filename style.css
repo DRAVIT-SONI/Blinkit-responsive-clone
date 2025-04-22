@@ -1,0 +1,133 @@
+*{font-family: sans-serif;}
+
+
+
+
+
+.header-container{display: flex;
+    flex-direction: row;gap: 20px;border-bottom: 1px solid #E5E5E5;}
+.header-left{display: flex;
+             flex-direction: row;
+             gap: 20px;
+             width: 500px;justify-content: center;align-items:center;margin-right: 82px;}
+.delin5min{width: 200px;display: flex;justify-content:center;align-items:center;flex-direction: column;height: 90px;line-height: 10px;}  
+.di8m{margin-top: 20px;font-size: 19px;font-weight: bolder;}           
+.logo{height: 100px;width: 220px;}
+.logodiv{background-color: #FFE141;padding-left: 63px;}
+.address{font-weight: 300;font-size: 13px;}
+
+.header-middle{display:flex;
+               flex-direction:row;
+               width: 750px;
+               justify-content: center;
+               align-items: center;}
+.searchtext{text-align: left;margin-top: 10px;}
+.search-logo{background-color: #EFEFEF;
+             height: 50px;
+             width: 40px;justify-content: center;display: flex;align-items: center;
+            border-radius: 16px 0px 0px 16px;
+        border:2px solid #E5E5E5;border-right: 0px;}
+.search-button{height: 50px;
+             width: 700px;border-left: 0px;
+            border-radius: 0px 16px 16px 0px;
+        border:1px solid #E5E5E5;border-left: 0px;}
+            
+
+.header-right{display: flex;gap: 30px;justify-content: center;align-items: center;flex-direction: row;}             
+.login-butt{display: flex;
+            justify-content: center;
+            align-items: center;}
+.login-button{height: 50px;
+              width: 70px;
+            border-radius: 16px;border: 1px solid #E5E5E5 ;}
+
+.mycart-button{display: flex;
+               background-color: ;
+               justify-content: center;
+               align-items: center;}
+.mycart-butt{height: 50px;width: 120px;display: flex;justify-content: center;align-items: center;gap: 9px;border-radius:16px;border: 1px solid #E5E5E5;}
+.cart-text{margin-top:16px}
+
+
+
+
+i m a g e s
+.divpaan{width: 100%px;}
+.paancorner{width:1170px;margin-top: 10px;height: 234px;}
+.img1{display: flex;justify-content: center;align-items: center;width:100%;margin-left: 32px;}
+
+
+.img2{display:flex;justify-content:center;align-items: center;}
+.moov{height: 200px;}
+.baby{height: 200px;}
+.dog{height: 200px;}
+.moovdiv,.dogdiv,.babydiv{margin-right: 22px;margin-top: 15px;}
+
+
+.multipleitemsdiv{display: flex;justify-content: center;align-items: center;}
+.multipleitems{width: 1170px;margin-left:80px;margin-top: 20px;}
+
+
+.mulitemdiv{display:flex;justify-content:center;align-items:center;}
+.mulitem2{width:1190px ;margin-left: 81px;margin-top:40px ;}
+
+footer{margin-top: 90px;}
+
+.head6{margin-top:-250px;margin-left: 30px;width: 100%;}
+h6{font-weight: bolder;}
+
+.mainlisttable1{display:grid;grid-template-columns: 100px  100px  120px;grid-template-rows: 200px;margin-left: 280px;}
+
+li{list-style: none;}
+.list1{grid-area: 1/1/2/2;}
+.list2{grid-area: 1/2/2/3;}
+.list3{grid-area: 1/3/2/4;}
+
+
+
+
+
+
+
+
+.footerlogomaindiv{display: flex;flex-direction: row;justify-content: center;align-items: center;gap: 50px;height: 100px;}
+
+
+
+.since{margin-left: 60px;margin-top: 16px;}
+.sincetext{font-size: small;}
+
+.downloadapptext{font-size: small;margin-top: 16px;margin-right: 25px;}
+.divforgapindownload{display: flex;justify-content: center;align-items: center;gap: 23px;}
+
+
+.appletextbutton{height: 50px;line-height: 1px;border-radius: 0px 5px 5px 0px;border-left: 0px;background-color:black;}
+.appletext{margin-top: 12px;color: white;}
+.applelogo{height: 50px;border-radius: 5px 0px 0px 5px;border-right: 0px;background-color: black;}
+.bi-apple{color: #E5E5E5;}
+.apple2text{color: white;}
+
+
+.applegoogleplay{display: flex;justify-content: center;align-items: center;}
+
+
+.playstorelogodiv{margin-left: 20px;}
+.playstoretextdiv{padding-right: 30px;}
+.playstoretextbutton{  height: 50px;line-height: 1px;width: 137px;border-radius: 0px 5px 5px 0px; border-left: 0px; background-color:black;}
+.googleplaytext{margin-top: 12px;color: white;}
+.playstorelogo{height: 50px;border-radius: 5px  0px 0px 5px;border-right: 0px;background-color:black;}
+.bi-google-play{color: white;}
+.googleplay2text{color: white;}
+
+
+
+
+
+
+.playstorelink,.appstorelink{text-decoration: none;}
+
+
+
+
+
+
